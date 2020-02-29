@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11359" started-at="2020-02-29T18:03:51 EST" finished-at="2020-02-29T18:04:03 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11359" started-at="2020-02-29T18:03:51 EST" finished-at="2020-02-29T18:04:03 EST">
+      <class name="test.TestLandingPage">
+        <test-method status="PASS" signature="titleValidation(java.lang.String)[pri:0, instance:test.TestLandingPage@58c1670b]" name="titleValidation" duration-ms="11288" started-at="2020-02-29T18:03:51 EST" finished-at="2020-02-29T18:04:03 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+      </class> <!-- test.TestLandingPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
